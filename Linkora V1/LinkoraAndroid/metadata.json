@@ -1,0 +1,6 @@
+{
+  "name": "Linkora",
+  "description": "Privacy-focused Android companion for Windows 11 with local Wi-Fi pairing, encrypted file transfer, clipboard, and notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
